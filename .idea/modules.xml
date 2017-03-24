@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/skeleton-dto/skeleton-dto.iml" filepath="$PROJECT_DIR$/skeleton-dto/skeleton-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skeleton-exception/skeleton-exception.iml" filepath="$PROJECT_DIR$/skeleton-exception/skeleton-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skeleton-external/skeleton-external.iml" filepath="$PROJECT_DIR$/skeleton-external/skeleton-external.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skeleton-internal/skeleton-internal.iml" filepath="$PROJECT_DIR$/skeleton-internal/skeleton-internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skeletondto/skeletondto.iml" filepath="$PROJECT_DIR$/skeletondto/skeletondto.iml" />
+    </modules>
+  </component>
+</project>
